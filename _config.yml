@@ -1,13 +1,16 @@
+theme: minima
 title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+author: TheLemon
+email: theemailofalemon@lemonmail.lemon
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This description will likely be significantly less awesome that the expectations that were 
+  set by the previous, in-built description. Well, hopefully this isn't too disappointing
+  as a description, despite the fact that it hasn't actually described anything... You know, 
+  this therefore isn't even technically a description. Thanks for reading this block of utterly
+  useless text, if you have, for whatever reason actually decided to do that :)
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: Twitter? What was that again? The one with the bird, right? # DO NOT include the @ character, or else the build will fail!
+github_username:  lemon-gith # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
