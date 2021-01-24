@@ -1,7 +1,7 @@
 theme: minima
-title: Your awesome title
+title: Blog about things
 author: TheLemon
-email: theemailofalemon@lemonmail.lemon
+email: emailoflemon@melonmail.nomel
 description: > # this means to ignore newlines until "baseurl:"
   This description will likely be significantly less awesome that the expectations that were 
   set by the previous, in-built description. Well, hopefully this isn't too disappointing
